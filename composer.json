@@ -5,6 +5,9 @@
             "Hoang9104\\Setup\\": "src/"
         }
     },
+    "files": [
+        "helper.php"
+    ],
     "authors": [
         {
             "name": "hoangdh9104",
